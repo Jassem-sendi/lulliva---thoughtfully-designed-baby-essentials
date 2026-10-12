@@ -1,0 +1,6 @@
+{
+  "name": "Lulliva — Thoughtfully Designed Baby Essentials",
+  "description": "Discover Lulliva, an emerging baby-products brand with a thoughtful approach to design, presentation, and everyday essentials. Join us for launch updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
